@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\bin\Debug\netcoreapp2.0\06.8QueemPuzzle.deps.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\bin\Debug\netcoreapp2.0\06.8QueemPuzzle.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\bin\Debug\netcoreapp2.0\06.8QueemPuzzle.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\bin\Debug\netcoreapp2.0\06.8QueemPuzzle.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\bin\Debug\netcoreapp2.0\06.8QueemPuzzle.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\obj\Debug\netcoreapp2.0\06.8QueemPuzzle.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\obj\Debug\netcoreapp2.0\06.8QueemPuzzle.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\obj\Debug\netcoreapp2.0\06.8QueemPuzzle.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\obj\Debug\netcoreapp2.0\06.8QueemPuzzle.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\obj\Debug\netcoreapp2.0\06.8QueemPuzzle.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\06.8QueemPuzzle\obj\Debug\netcoreapp2.0\06.8QueemPuzzle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\bin\Debug\netcoreapp2.0\07.PathsInLabyrinth.deps.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\bin\Debug\netcoreapp2.0\07.PathsInLabyrinth.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\bin\Debug\netcoreapp2.0\07.PathsInLabyrinth.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\bin\Debug\netcoreapp2.0\07.PathsInLabyrinth.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\bin\Debug\netcoreapp2.0\07.PathsInLabyrinth.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\obj\Debug\netcoreapp2.0\07.PathsInLabyrinth.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\obj\Debug\netcoreapp2.0\07.PathsInLabyrinth.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\obj\Debug\netcoreapp2.0\07.PathsInLabyrinth.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\obj\Debug\netcoreapp2.0\07.PathsInLabyrinth.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\obj\Debug\netcoreapp2.0\07.PathsInLabyrinth.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\07.PathsInLabyrinth\obj\Debug\netcoreapp2.0\07.PathsInLabyrinth.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\bin\Debug\netcoreapp2.0\04.Generate01Vectors.deps.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\bin\Debug\netcoreapp2.0\04.Generate01Vectors.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\bin\Debug\netcoreapp2.0\04.Generate01Vectors.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\bin\Debug\netcoreapp2.0\04.Generate01Vectors.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\bin\Debug\netcoreapp2.0\04.Generate01Vectors.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\obj\Debug\netcoreapp2.0\04.Generate01Vectors.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\obj\Debug\netcoreapp2.0\04.Generate01Vectors.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\obj\Debug\netcoreapp2.0\04.Generate01Vectors.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\obj\Debug\netcoreapp2.0\04.Generate01Vectors.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\obj\Debug\netcoreapp2.0\04.Generate01Vectors.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\04.Generate01Vectors\obj\Debug\netcoreapp2.0\04.Generate01Vectors.pdb

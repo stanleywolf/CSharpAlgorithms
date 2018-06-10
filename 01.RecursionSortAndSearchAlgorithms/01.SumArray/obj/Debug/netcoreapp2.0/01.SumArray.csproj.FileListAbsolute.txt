@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\bin\Debug\netcoreapp2.0\01.SumArray.deps.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\bin\Debug\netcoreapp2.0\01.SumArray.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\bin\Debug\netcoreapp2.0\01.SumArray.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\bin\Debug\netcoreapp2.0\01.SumArray.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\bin\Debug\netcoreapp2.0\01.SumArray.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\obj\Debug\netcoreapp2.0\01.SumArray.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\obj\Debug\netcoreapp2.0\01.SumArray.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\obj\Debug\netcoreapp2.0\01.SumArray.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\obj\Debug\netcoreapp2.0\01.SumArray.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\obj\Debug\netcoreapp2.0\01.SumArray.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\01.SumArray\obj\Debug\netcoreapp2.0\01.SumArray.pdb

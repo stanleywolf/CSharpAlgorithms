@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\bin\Debug\netcoreapp2.0\05.GeneratingCombination.deps.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\bin\Debug\netcoreapp2.0\05.GeneratingCombination.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\bin\Debug\netcoreapp2.0\05.GeneratingCombination.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\bin\Debug\netcoreapp2.0\05.GeneratingCombination.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\bin\Debug\netcoreapp2.0\05.GeneratingCombination.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\obj\Debug\netcoreapp2.0\05.GeneratingCombination.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\obj\Debug\netcoreapp2.0\05.GeneratingCombination.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\obj\Debug\netcoreapp2.0\05.GeneratingCombination.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\obj\Debug\netcoreapp2.0\05.GeneratingCombination.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\obj\Debug\netcoreapp2.0\05.GeneratingCombination.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\05.GeneratingCombination\obj\Debug\netcoreapp2.0\05.GeneratingCombination.pdb

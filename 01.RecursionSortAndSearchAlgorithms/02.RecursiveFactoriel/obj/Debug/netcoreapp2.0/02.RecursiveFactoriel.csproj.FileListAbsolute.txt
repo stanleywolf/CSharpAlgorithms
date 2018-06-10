@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\bin\Debug\netcoreapp2.0\02.RecursiveFactoriel.deps.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\bin\Debug\netcoreapp2.0\02.RecursiveFactoriel.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\bin\Debug\netcoreapp2.0\02.RecursiveFactoriel.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\bin\Debug\netcoreapp2.0\02.RecursiveFactoriel.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\bin\Debug\netcoreapp2.0\02.RecursiveFactoriel.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\obj\Debug\netcoreapp2.0\02.RecursiveFactoriel.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\obj\Debug\netcoreapp2.0\02.RecursiveFactoriel.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\obj\Debug\netcoreapp2.0\02.RecursiveFactoriel.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\obj\Debug\netcoreapp2.0\02.RecursiveFactoriel.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\obj\Debug\netcoreapp2.0\02.RecursiveFactoriel.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\02.RecursiveFactoriel\obj\Debug\netcoreapp2.0\02.RecursiveFactoriel.pdb

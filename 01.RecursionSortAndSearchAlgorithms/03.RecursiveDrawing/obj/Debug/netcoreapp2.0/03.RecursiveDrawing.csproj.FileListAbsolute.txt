@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\bin\Debug\netcoreapp2.0\03.RecursiveDrawing.deps.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\bin\Debug\netcoreapp2.0\03.RecursiveDrawing.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\bin\Debug\netcoreapp2.0\03.RecursiveDrawing.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\bin\Debug\netcoreapp2.0\03.RecursiveDrawing.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\bin\Debug\netcoreapp2.0\03.RecursiveDrawing.pdb
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\obj\Debug\netcoreapp2.0\03.RecursiveDrawing.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\obj\Debug\netcoreapp2.0\03.RecursiveDrawing.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\obj\Debug\netcoreapp2.0\03.RecursiveDrawing.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\obj\Debug\netcoreapp2.0\03.RecursiveDrawing.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\obj\Debug\netcoreapp2.0\03.RecursiveDrawing.dll
+F:\Visual Project\C# Fundamentals\Algorithms\01.RecursionSortAndSearchAlgorithms\03.RecursiveDrawing\obj\Debug\netcoreapp2.0\03.RecursiveDrawing.pdb
